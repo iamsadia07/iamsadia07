@@ -7,4 +7,4 @@
 🌱 Web Development Learner | HTML| CSS| JS
 
 
-    Thanks!
+ Thanks!
