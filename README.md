@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi, I'm Sadia 
+## Hi👋, I'm Sadia 
 
 💻 BTech CSE (AI) Student
 💡Learning Languages: C | C++ | Python
