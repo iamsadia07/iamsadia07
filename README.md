@@ -1,4 +1,3 @@
-
 ## Hi👋, I'm Sadia 
 
 💻 BTech CSE (AI) Student
