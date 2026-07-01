@@ -7,7 +7,6 @@
  - Languages: C |C++ 
  - Web Development (|HTML| CSS| JS)
 
-
   
 
 
