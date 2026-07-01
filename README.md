@@ -2,7 +2,7 @@
 
 🎓 BTech CSE (AI) Student
 
- #🌱Currently learning:
+ 🌱Currently learning:
  - Data Structures & Algorithms (C)
  - Languages: C |C++ 
  - Web Development (|HTML| CSS| JS)
