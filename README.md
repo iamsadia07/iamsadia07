@@ -1,7 +1,7 @@
 ## Hi👋, I'm Sadia 
 
 💻 BTech CSE (AI) Student
-💡Learning Languages: C | C++ | Python
+💡Learning Languages: C | C++ | 
 🌱 Web Development Learner | HTML| CSS| JS
 📃DSA-in-C
 
