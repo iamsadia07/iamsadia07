@@ -4,7 +4,7 @@
 
  🌱Currently learning:
  - Data Structures & Algorithms (C)
- - Languages: C |C++ 
+ - Languages: C |C++
  - Web Development (|HTML| CSS| JS)
 
 
